@@ -1,5 +1,7 @@
 # InviteCleanerBot - Discord Bot to Clean Server Invitations
 
+## Warning
+
 ## Description
 
 InviteCleanerBot is a Discord bot that helps you delete all invitations generated in a specific Discord server. This bot is useful for server administrators who want to clean up existing invites for security reasons or reset them.
@@ -14,6 +16,7 @@ This script uses the [discord.py](https://discordpy.readthedocs.io/) library to 
 
 ## Credits 💖
 
+- @usershhh - Its his code, his idea :) i
 - discord.py - Library used to interact with the Discord API.
 - InviteCleanerBot - Bot created by Quravat.
 
