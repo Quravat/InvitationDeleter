@@ -16,7 +16,7 @@ This script uses the [discord.py](https://discordpy.readthedocs.io/) library to 
 
 ## Credits 💖
 
-- @usershhh - Its his code, his idea :) i
+- @usershhh - Its his code, his idea :)  i just modify some part
 - discord.py - Library used to interact with the Discord API.
 - InviteCleanerBot - Bot created by Quravat.
 
