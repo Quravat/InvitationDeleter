@@ -1,6 +1,6 @@
 # InviteCleanerBot - Discord Bot to Clean Server Invitations
 
-## Warning
+# - @usershhh - Its his code, his idea :)  i just modify some part
 
 ## Description
 
